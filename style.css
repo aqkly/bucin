@@ -1,0 +1,25 @@
+*{
+    box-sizing:border-box;
+}
+
+body{
+    background-color: #cac97f;
+    height:100vh;
+    margin: 0;
+}
+
+.text{
+    background: url(gambar/ily.gif) no-repeat;
+    background-size:60% auto;
+    background-position: center;
+    background-attachment: fixed;
+    font-size: 5px;
+    line-height: 5px;
+    margin:0;
+    text-align: justify;
+    width: 100vw;
+    height:100vh;
+    overflow: hidden;
+    background-clip: text;
+    -webkit-text-fill-color: transparent ;
+}
